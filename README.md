@@ -1,7 +1,7 @@
 # Красивый README
 ### Читать обязательно
 ***Я научился работать с Git!!!!WWW!!!WWWW***
-~~ FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF ~~
+~~FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF~~
 
 ### Читать
 1. Первый элемнт списка 
